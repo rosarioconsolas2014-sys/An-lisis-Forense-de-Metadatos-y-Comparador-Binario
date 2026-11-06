@@ -1,0 +1,6 @@
+{
+  "name": "Analizador Forense de Archivos",
+  "description": "Herramienta profesional de análisis forense digital, extracción de metadatos profundos, comparación binaria y perceptual de archivos con procesamiento 100% local.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
